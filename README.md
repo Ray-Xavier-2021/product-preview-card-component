@@ -1,5 +1,6 @@
 # Frontend Mentor - Product preview card component
 
+##Desktop View
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 # Frontend Mentor - Product preview card component solution
 
