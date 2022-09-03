@@ -8,9 +8,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [The challenge](Product Preview Card Component)
   - [Screenshot](#screenshot)
   - [Links](https://github.com/Ray-Xavier-2021/product-preview-card-component)
-- [My process](1. Created HTML layout. 2. Style using css)
+- [My process]()
   - [Built with](HTML, CSS)
-  - [What I learned](#what-i-learned)
+  - [What I learned](Abetter understanding of cascade styling)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](Horatio Hanley)
@@ -45,6 +45,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+  1. Created HTML layout. 
+  2. Styled using css
+  3. Mobile First
+  4. Desktop Design
 
 ### Built with
 
@@ -99,13 +103,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Ray-Xavier-2021](https://www.frontendmentor.io/profile/Ray-Xavier-2021)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
