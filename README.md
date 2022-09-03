@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](Product Preview Card Component)
+  - The challenge: Product Preview Card Component
   - [Screenshot](#screenshot)
   - [Links](https://github.com/Ray-Xavier-2021/product-preview-card-component)
 - [My process](1. Created HTML layout. 2. Style using css)
