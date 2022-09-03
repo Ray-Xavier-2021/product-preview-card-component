@@ -1,0 +1,131 @@
+/* Universal Styles */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --darkCyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+    --veryDarkBlue: hsl(212, 21%, 14%);
+    --darkGrayishBlue: hsl(228, 12%, 48%);
+    --White: hsl(0, 0%, 100%);
+    --black: hsl(100, 100%, 0%);
+}
+
+body {
+    color: var(--cream);
+    font-style: 14px;
+}
+
+.attribution { 
+    border: 1px dashed yellow;
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+
+/* MOBILE FIRST */
+.card-wrapper {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    /* height: 100vh; */
+    margin: 20px;
+}
+
+.product-card {
+    border: 1px solid var(--darkGrayishBlue);
+    color: var(--veryDarkBlue);
+    width: 375px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.card-img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+img {
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+}
+
+/* CARD PRODUCT CONTENT */
+.card-content {    
+    padding: 0 15px;
+}
+
+.prod-type {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 10px;
+    padding: 5px 0;
+    color: var(--darkCyan);
+}
+
+.prod-name {    
+    padding: 5px 0;
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+
+.prod-desc {
+    color: var(--darkCyan);
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 5px 0;
+}
+
+/* PRICE */
+.price {
+    display: flex;
+    align-items: center;
+}
+
+.new-price {
+    color: var(--darkCyan);
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.old-price {
+    color: var(--darkGrayishBlue);
+}
+
+/* BUTTON */
+.button {
+    width: 100%;
+    padding: 20px;
+}
+
+.button img {
+    color: var(--White);
+    width: 20px;
+}
+
+.button button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--darkCyan);
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: var(--White);
+    width: 100%;
+    padding: 10px;
+}
+
+.button button img {
+    margin-right: 10px;
+}
