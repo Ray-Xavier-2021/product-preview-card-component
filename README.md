@@ -33,7 +33,7 @@ Users should be able to:
 ### Screenshot
 
 ## Mobile View
-![Design preview for the Product preview card component coding challenge](./design/product-card-mobile.png
+![Design preview for the Product preview card component coding challenge](./design/product-card-mobile.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobile-first-and-media-queries-vq2gYWTmHJ)
